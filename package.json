@@ -7,6 +7,10 @@
     "email": "xjnn666@gmail.com",
     "name": "xjnn"
   },
+  "repository": {
+    "url": "https://github.com/Zytxjnn/electront",
+    "type": "git"
+  },
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
